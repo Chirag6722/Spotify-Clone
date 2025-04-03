@@ -1,2 +1,2 @@
-<b>Project Title</b>
+<b>Project Title</b> </br>
 Spotify Clone (Frontend Only)
