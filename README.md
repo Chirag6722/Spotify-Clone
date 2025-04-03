@@ -9,7 +9,7 @@ This is a frontend clone of Spotify built using HTML and CSS. It replicates the 
 
 ## Technologies Used
 - ✅ **HTML**  
-- ✅ **CSS** (Flexbox, Grid, Animations)  
+- ✅ **CSS** (Flexbox, Grid)  
 
 
 
